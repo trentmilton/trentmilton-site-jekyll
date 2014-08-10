@@ -1,0 +1,28 @@
+# Site settings
+title: Trent Milton
+email: me@trentmilton.com
+email_alt: trent@shaydesdsgn.com
+description: "A place to collect my notes on development, portfolio and a few bit about me."
+baseurl: ""
+url: "http://trentmilton.com"
+github_username: trentmilton
+google_analytics_key: UA-53661889-1
+disqus_shortname: trentmilton-blog
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: post
+      author: "Trent Milton"
+      cateegory: "note"
+
+# Build settings
+exclude: [README.md, deploy.sh]
+markdown: kramdown
+permalink: none
+gems:
+  - jekyll-sitemap
