@@ -21,7 +21,7 @@ defaults:
       cateegory: "note"
 
 # Build settings
-exclude: [README.md, deploy.sh]
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'README.md', 'deploy.sh']
 markdown: kramdown
 permalink: none
 gems:
