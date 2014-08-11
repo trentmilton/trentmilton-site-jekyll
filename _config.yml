@@ -13,7 +13,7 @@ disqus_shortname: trentmilton-blog
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'README.md', 'deploy.sh']
 markdown: kramdown
 permalink: none
-lsi: true
+lsi: false
 
 # Sitemap
 sitemap:
