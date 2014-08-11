@@ -16,6 +16,6 @@ You are receiving an error like:
 
 Most likely if you check the .entitlements file you will find an entitlement like **com.apple.developer.icloud-container-identifiers**. If this is the case then change them to **com.apple.developer.ubiquity-container-identifiers**.
 
-or;
+or
 
 You have enabled iCloud's **CloudKit** which is still in pre-release. Basically you just have to go the the app id in the developer portal and delete any associated iCloud containers attached to it. The original answer can be found [here](https://devforums.apple.com/message/992625#992625).

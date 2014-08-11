@@ -12,7 +12,7 @@ permalink: /portfolio/
 - [FTQ360](https://itunes.apple.com/au/app/ftq360-inspection-system/id524894778?mt=8) - Developed for a client (FTQ360). Designed for iPhone / iPad, a construction quality (QA/QC) inspection application.
 
 ### Mac Apps
-- [EasyText](http://easytext.shaydesdsgn.com) - Basic text editor with a powerful text colouring engine. It will adjust any colours based on the background using an equation that will make sure the foreground colours match perfectly for reading against the background.
+- [EasyText](https://itunes.apple.com/us/app/easytext/id740019281?ls=1&mt=12) - Basic text editor with a powerful text colouring engine. It will adjust any colours based on the background using an equation that will make sure the foreground colours match perfectly for reading against the background.
 
 ### iOS / OSX Frameworks
 - [OSX calendar](https://github.com/shaydesdsgn/SDFCalendarOSX) - Simple and highly configurable framework for a calendar on OSX. There are very few of these out there.
