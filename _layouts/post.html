@@ -30,22 +30,6 @@ comments: true
 
 </div>
 
-<div class="related-posts">
-
-	<header class="related-posts-header">
-		<h1>Related posts</h1>
-	</header>
-
-	<ul class="related-posts-list">
-	  {% for post in site.related_posts %}
-	    <li>
-	      <a class="related-post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-	    </li>
-	  {% endfor %}
-	</ul>
-
-</div>
-
 {{ % if page.comments % }}
 	<div id="disqus_thread"></div>
   <script type="text/javascript">

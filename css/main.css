@@ -162,31 +162,6 @@ a:visited { color: #205caa; }
   color: #818181;
 }
 
-/* Related post styles */
-/* ----------------------------------------------------------*/
-.related-posts {
-	margin-top: 60px;
-	margin-bottom: 30px;
-}
-
-.related-posts-header h1 {
-  font-size: 34px;
-  letter-spacing: -1.75px;
-  line-height: 1;
-  font-weight: 300;
-  padding-bottom: 20px;
-}
-
-.related-posts-list { list-style-type: none; }
-
-.related-posts-list li { margin-bottom: 5px; }
-
-.related-posts-list .related-post-link {
-  font-size: 18px;
-  letter-spacing: -1px;
-  line-height: 1;
-}
-
 /* Post styles */
 /* ----------------------------------------------------------*/
 
