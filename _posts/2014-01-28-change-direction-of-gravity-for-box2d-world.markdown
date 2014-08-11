@@ -2,6 +2,11 @@
 layout: post
 title: Change Direction of Gravity for box2d world
 date: 2014-01-28 08:15:47.000000000 +10:00
+tags:
+  - physics
+  - box2d
+  - cocos2d
+  - xcode
 ---
 A while ago I dabbled in implementing gravity for an iPhone game using [box2d](http://box2d.org/). The following will help shed some light on how the gravity works and how to code for it.
 

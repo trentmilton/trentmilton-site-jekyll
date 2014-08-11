@@ -2,6 +2,12 @@
 layout: post
 title: Find The Process Using That Port
 date: 2014-01-29 08:34:04.000000000 +10:00
+tags:
+  - port
+  - process
+  - bash
+  - terminal
+  - osx
 ---
 There comes a time when you want to start up a process and find it won't work because some ninja process is already using that port.
 

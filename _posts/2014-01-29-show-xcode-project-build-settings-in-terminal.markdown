@@ -2,6 +2,12 @@
 layout: post
 title: Show Xcode Project Build Settings In Terminal
 date: 2014-01-29 08:30:28.000000000 +10:00
+tags:
+  - xcode
+  - build
+  - xcodebuild
+  - settings
+  - terminal
 ---
 [xcodebuild](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/xcodebuild.1.html) allows you to view all the Xcode project settings from Termina
 

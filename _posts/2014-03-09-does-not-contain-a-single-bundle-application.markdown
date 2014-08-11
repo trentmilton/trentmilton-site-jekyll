@@ -2,6 +2,15 @@
 layout: post
 title: Does Not Contain A Single Bundle Application
 date: 2014-03-09 17:47:10.000000000 +10:00
+tags:
+  - app
+  - store
+  - mac
+  - osx
+  - bundle
+  - application
+  - deploy
+  - release
 ---
 You may experience a problem when trying to distribute an app to the mac app store. The following error might appear
 

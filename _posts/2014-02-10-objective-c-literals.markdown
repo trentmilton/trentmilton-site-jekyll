@@ -2,6 +2,11 @@
 layout: post
 title: Objective-C Literals
 date: 2014-02-10 07:35:33.000000000 +10:00
+tags:
+  - objective-c
+  - literals
+  - box
+  - cast
 ---
 Have you ever wanted to quickly write an NSNumber without having to do the following:
 

@@ -2,6 +2,10 @@
 layout: post
 title: Android WebView Uncaught TypeError
 date: 2014-02-09 12:03:50.000000000 +10:00
+tags:
+  - android
+  - webview
+  - error
 ---
 Do you have a WebView that is failing to render a page correctly? Perhaps you've looked at logcat (or whatever you are logging with) and seen an error similar to
 Error

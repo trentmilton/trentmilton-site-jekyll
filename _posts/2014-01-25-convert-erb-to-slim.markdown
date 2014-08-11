@@ -2,6 +2,10 @@
 layout: post
 title: Convert ERB to SLIM
 date: 2014-01-25 16:33:56.000000000 +10:00
+tags:
+  - erb
+  - slim
+  - haml
 ---
 The following is based off the [ERB to SLIM Github project](https://github.com/slim-template/slim/wiki/Template-Converters-ERB-to-SLIM "ERB to SLIM Github project").
 

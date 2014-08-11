@@ -2,6 +2,10 @@
 layout: post
 title: Eclipse - Workbench Has Not Been Created Yet
 date: 2014-03-02 14:04:06.000000000 +10:00
+tags:
+  - eclipse
+  - error
+  - workbench
 ---
 Eclipse, I could go on a rant about it but I won't (maybe another post). I booted up Eclipse today and it decided to throw me an error:
 

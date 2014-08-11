@@ -2,6 +2,11 @@
 layout: post
 title: Install Mscgen On Mac
 date: 2014-01-28 07:54:42.000000000 +10:00
+tags:
+  - mscgen
+  - graphviz
+  - doxygen
+  - macports
 ---
 [Mscgen](http://www.mcternan.me.uk/mscgen/) is used along with [Graphviz](http://www.graphviz.org/)'s dot for [Doxygen](http://www.stack.nl/~dimitri/doxygen/). If you are experiencing errors when compiling say [cocos2d](http://www.cocos2d-iphone.org/) documentation this should help. Do the following and you should be fine.
 
