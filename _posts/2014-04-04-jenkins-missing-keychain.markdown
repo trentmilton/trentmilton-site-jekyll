@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Jenkins Missing Keychain
 date: 2014-04-04 10:08:33.000000000 +10:00
 ---

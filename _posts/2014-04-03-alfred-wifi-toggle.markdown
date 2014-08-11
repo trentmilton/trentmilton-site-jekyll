@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Alfred WiFi Toggle
 date: 2014-04-03 08:13:48.000000000 +10:00
 ---

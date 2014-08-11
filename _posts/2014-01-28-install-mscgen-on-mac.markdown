@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Install Mscgen On Mac
 date: 2014-01-28 07:54:42.000000000 +10:00
 ---

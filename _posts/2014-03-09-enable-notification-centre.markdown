@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Enable Notification Centre
 date: 2014-03-09 16:58:39.000000000 +10:00
 ---

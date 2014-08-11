@@ -1,4 +1,5 @@
 ---
+layout: post
 title: OSX FTP Server
 date: 2014-03-24 08:29:47.000000000 +10:00
 ---

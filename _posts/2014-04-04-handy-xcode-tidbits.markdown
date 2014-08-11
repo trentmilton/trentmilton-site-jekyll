@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Handy Xcode Tidbits
 date: 2014-04-04 08:22:19.000000000 +10:00
 ---

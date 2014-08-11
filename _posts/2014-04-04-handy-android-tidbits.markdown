@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Handy Android Tidbits
 date: 2014-04-04 08:49:32.000000000 +10:00
 ---

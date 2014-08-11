@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Android HTTP Authentications
 ---
 App.java

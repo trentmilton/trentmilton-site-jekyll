@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Automate Build Number In Xcode
 date: 2014-03-13 17:36:08.000000000 +10:00
 ---

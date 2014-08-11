@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Handy HTML, Javascript & CSS Tidbits
 date: 2014-04-04 08:34:32.000000000 +10:00
 ---

@@ -9,23 +9,10 @@ github_username: trentmilton
 google_analytics_key: UA-53661889-1
 disqus_shortname: trentmilton-blog
 
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "post"
-    values:
-      layout: post
-      author: "Trent Milton"
-      cateegory: "note"
-
 # Build settings
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'README.md', 'deploy.sh']
 markdown: kramdown
 permalink: none
-gems:
-  - kramdown
 
 # Sitemap
 sitemap:

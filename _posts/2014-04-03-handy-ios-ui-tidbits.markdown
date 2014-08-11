@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Handy iOS UI Tidbits
 date: 2014-04-03 08:22:39.000000000 +10:00
 ---

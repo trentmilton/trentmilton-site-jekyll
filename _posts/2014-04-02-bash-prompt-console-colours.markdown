@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bash Prompt Console Colours
 date: 2014-04-02 08:38:25.000000000 +10:00
 ---

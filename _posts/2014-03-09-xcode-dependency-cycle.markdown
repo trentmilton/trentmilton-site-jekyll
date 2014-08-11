@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Xcode Dependency Cycle
 date: 2014-03-09 19:57:12.000000000 +10:00
 ---

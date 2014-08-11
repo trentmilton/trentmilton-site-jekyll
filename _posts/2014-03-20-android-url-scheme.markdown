@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Android URL Scheme
 date: 2014-03-20 20:57:01.000000000 +10:00
 ---

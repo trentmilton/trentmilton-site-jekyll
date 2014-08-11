@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Cunninghams Law
 date: 2014-03-27 13:26:56.000000000 +10:00
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Graph Sine On Texas Instrument TI83+ Calculator
 date: 2014-01-28 08:28:48.000000000 +10:00
 ---

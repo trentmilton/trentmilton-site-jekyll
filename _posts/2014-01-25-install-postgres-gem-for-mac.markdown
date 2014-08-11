@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Install PostGres Gem For Mac
 date: 2014-01-25 16:34:43.000000000 +10:00
 ---

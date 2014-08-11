@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Xcode Clang Warning List
 date: 2014-06-18 12:37:05.000000000 +10:00
 tags:

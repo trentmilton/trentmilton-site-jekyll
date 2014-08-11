@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Twitter Authorisation Failure
 date: 2014-04-02 10:06:18.000000000 +10:00
 ---

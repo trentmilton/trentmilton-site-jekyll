@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Inject Javascript Into Android WebView
 date: 2014-06-07 17:13:20.000000000 +10:00
 ---

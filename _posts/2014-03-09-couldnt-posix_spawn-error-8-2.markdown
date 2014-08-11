@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Could not posix_spawn: error 8'
 date: 2014-03-09 10:45:13.000000000 +10:00
 ---

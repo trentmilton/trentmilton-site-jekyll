@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Android Cookies
 ---
 Somewhere in your code add:

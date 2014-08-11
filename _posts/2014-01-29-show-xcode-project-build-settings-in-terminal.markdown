@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Show Xcode Project Build Settings In Terminal
 date: 2014-01-29 08:30:28.000000000 +10:00
 ---

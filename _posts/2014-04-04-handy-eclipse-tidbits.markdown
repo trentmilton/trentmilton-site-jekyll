@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Handy Eclipse Tidbits
 date: 2014-04-04 08:53:11.000000000 +10:00
 ---

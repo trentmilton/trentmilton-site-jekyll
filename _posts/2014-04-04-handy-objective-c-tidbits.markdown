@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Handy Objective-C Tidbits
 date: 2014-04-04 09:42:20.000000000 +10:00
 ---

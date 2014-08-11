@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Objective-C Literals
 date: 2014-02-10 07:35:33.000000000 +10:00
 ---

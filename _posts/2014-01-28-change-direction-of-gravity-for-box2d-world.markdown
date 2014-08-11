@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Change Direction of Gravity for box2d world
 date: 2014-01-28 08:15:47.000000000 +10:00
 ---

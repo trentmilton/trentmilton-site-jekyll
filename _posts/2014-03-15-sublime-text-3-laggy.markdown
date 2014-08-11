@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Sublime Text 3 Laggy
 date: 2014-03-15 16:30:41.000000000 +10:00
 ---

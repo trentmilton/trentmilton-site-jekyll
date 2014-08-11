@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Optimising Sprite Image Loading In Cocos2d
 date: 2014-01-28 08:22:13.000000000 +10:00
 ---

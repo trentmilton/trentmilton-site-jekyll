@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Better Way To Emulate Android Devices
 date: 2014-01-29 08:31:31.000000000 +10:00
 ---

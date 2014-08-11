@@ -1,4 +1,5 @@
 ---
+layout: post
 title: NSMenu Shortcuts
 date: 2014-06-17 10:46:53.000000000 +10:00
 tags:

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Missing First Responder Actions
 date: 2014-06-17 19:57:50.000000000 +10:00
 ---

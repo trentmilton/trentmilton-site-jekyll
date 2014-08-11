@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Convert ERB to SLIM
 date: 2014-01-25 16:33:56.000000000 +10:00
 ---

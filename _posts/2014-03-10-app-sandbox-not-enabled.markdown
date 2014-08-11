@@ -1,4 +1,5 @@
 ---
+layout: post
 title: App Sandbox Not Enabled
 date: 2014-03-10 19:34:46.000000000 +10:00
 ---

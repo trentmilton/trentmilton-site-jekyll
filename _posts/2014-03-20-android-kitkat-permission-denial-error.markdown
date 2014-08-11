@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Android KitKat Permission Denial Error
 date: 2014-03-20 19:27:58.000000000 +10:00
 ---

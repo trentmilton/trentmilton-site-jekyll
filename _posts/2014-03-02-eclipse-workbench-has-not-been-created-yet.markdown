@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Eclipse - Workbench Has Not Been Created Yet
 date: 2014-03-02 14:04:06.000000000 +10:00
 ---

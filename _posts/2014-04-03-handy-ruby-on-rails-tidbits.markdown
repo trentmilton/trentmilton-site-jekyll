@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Handy Ruby On Rails Tidbits
 date: 2014-04-03 08:09:44.000000000 +10:00
 ---

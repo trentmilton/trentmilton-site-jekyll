@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Handy Git Tidbits
 date: 2014-03-29 21:33:48.000000000 +10:00
 ---

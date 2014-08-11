@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Android WebView Uncaught TypeError
 date: 2014-02-09 12:03:50.000000000 +10:00
 ---

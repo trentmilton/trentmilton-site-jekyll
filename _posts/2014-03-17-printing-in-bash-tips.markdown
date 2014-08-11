@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Printing in Bash Tips
 date: 2014-03-17 07:59:58.000000000 +10:00
 ---

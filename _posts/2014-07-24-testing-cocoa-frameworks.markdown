@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Testing Cocoa Frameworks
 date: 2014-06-17 12:00:00.000000000 +10:00
 tags:

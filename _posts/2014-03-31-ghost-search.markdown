@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Ghost Search
 date: 2014-03-31 08:14:02.000000000 +10:00
 ---

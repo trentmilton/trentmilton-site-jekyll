@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Handy OSX UI Tidbits
 date: 2014-04-04 08:15:38.000000000 +10:00
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Objective-c Singleton Snippet
 date: 2014-06-16 11:09:39.000000000 +10:00
 ---
