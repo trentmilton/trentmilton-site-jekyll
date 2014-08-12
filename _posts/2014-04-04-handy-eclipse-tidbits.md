@@ -8,9 +8,9 @@ tags: [tidbits, eclipse, author]
 The following are some useful bits and pieces for working with Eclipse.
 
 ### General
-##### Set Eclipse @author
+
+#### Set Eclipse @author
+
 In the eclipse.ini file you just have to modify the following setting:
 
-```
--Duser.name=[your name]
-```
+	-Duser.name=[your name]

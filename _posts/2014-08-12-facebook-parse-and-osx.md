@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facebook, Parse and OSX
-published: false
+published: true
 categories: []
 tags: [facebook, parse, osx, phfacebook]
 ---

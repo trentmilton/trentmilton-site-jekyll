@@ -14,15 +14,13 @@ However if the URL scheme is launched via a link , everything works correctly.
 
 The following needs to be added in order to get URL schemes working.
 
-``` language-xml
-<intent-filter>
-	<!-- You would replace shaydesdsgn with your own URL scheme -->
-	<data android:scheme="shaydesdsgn" />
-	<!-- or you can use deep linking like -->
-	<action android:name="android.intent.action.VIEW" />
-	<category android:name="android.intent.category.DEFAULT" />
-    <category android:name="android.intent.category.BROWSABLE" />
-</intent-filter>
-```
+	<intent-filter>
+		<!-- You would replace shaydesdsgn with your own URL scheme -->
+		<data android:scheme="shaydesdsgn" />
+		<!-- or you can use deep linking like -->
+		<action android:name="android.intent.action.VIEW" />
+		<category android:name="android.intent.category.DEFAULT" />
+	    <category android:name="android.intent.category.BROWSABLE" />
+	</intent-filter>
 
 That's all there is to it.

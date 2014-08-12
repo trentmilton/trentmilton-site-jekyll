@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Printing in Bash Tidbits
+title: Handy Bash Tidbits
 published: true
 categories: []
-tags: [bash, printing, log, tidbits]
+tags: [bash, print, tidbits]
 ---
 Have you been stuck while trying to do some basic printing in Bash? Below are some basic problems and solutions to issue I've had with Bash printing.
 

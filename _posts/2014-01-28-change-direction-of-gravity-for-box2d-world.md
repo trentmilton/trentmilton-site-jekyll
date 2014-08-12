@@ -22,9 +22,7 @@ You define your screen orientation within AppDelegate.mm file. This has a HUGE (
 
 The following line is where it all begins
 
-```
-[director setDeviceOrientation:kCCDeviceOrientationPortraitUpsideDown];
-```
+	[director setDeviceOrientation:kCCDeviceOrientationPortraitUpsideDown];
 
 Let’s set a baseline for a box2d world. Hold the device so the home button (the circle one) is at the bottom and front camera are at the top. This is called ‘kCCDeviceOrientationPortrait’.
 
@@ -39,14 +37,12 @@ I’m going to come back to this shortly, the next thing we need to cover is how
 
 Look at the accelerometer method (see below)
 
-```
-- (void) accelerometer:(UIAccelerometer *)accelerometer didAccelerate:(UIAcceleration *)acceleration {
-	float accelX =  (float)acceleration.x * 10.0f;
-	float accelY =  (float)acceleration.y * 10.0f;
-	b2Vec2 gravity(accelX, accelY);
-	world->SetGravity(gravity);
-}
-```
+	- (void) accelerometer:(UIAccelerometer *)accelerometer didAccelerate:(UIAcceleration *)acceleration {
+		float accelX =  (float)acceleration.x * 10.0f;
+		float accelY =  (float)acceleration.y * 10.0f;
+		b2Vec2 gravity(accelX, accelY);
+		world->SetGravity(gravity);
+	}
 
 The accelerometer's **acceleration** object will give us our **x** and **y** acceleration in a range from -1 to 1. box2d needs them to be from -10 to 10 (it can be more but for this example let’s just stick to a relativly close value for our actual gravity of 9.8).
 

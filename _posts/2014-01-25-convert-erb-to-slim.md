@@ -9,8 +9,6 @@ The following is based off the [ERB to SLIM Github project](https://github.com/s
 
 Run the below **command** in **Terminal** to **convert** any **.erb** files to **.slim** (skipping the regular step of converting .erb to .haml).
 
-```language-bash
-find . -name ‘*erb’ | \
-xargs ruby -e ‘ARGV.each { |i| puts “html2slim -d #{i} #{i.sub(/erb$/,”slim”)}”}’ | \
-bash
-```
+	find . -name ‘*erb’ | \
+	xargs ruby -e ‘ARGV.each { |i| puts “html2slim -d #{i} #{i.sub(/erb$/,”slim”)}”}’ | \
+	bash
