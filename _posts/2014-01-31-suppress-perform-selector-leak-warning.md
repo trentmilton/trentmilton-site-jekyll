@@ -22,13 +22,13 @@ Insert the following somewhere (I usually have a Constants.h I inlude in my .pch
 
 The usage is fairly straight forward.
 
-    SuppressPerformSelectorLeakWarning(
-    	[_target performSelector:_action withObject:self]
+	SuppressPerformSelectorLeakWarning(
+		[_target performSelector:_action withObject:self]
 	);
 	// or;
 	id result;
 	SuppressPerformSelectorLeakWarning(
-    	result = [_target performSelector:_action withObject:self]
+		result = [_target performSelector:_action withObject:self]
 	);
 
 **However**, warnings should be followed and corrected when appropriate. Try the following instead:
