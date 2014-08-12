@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Places iOS API
-published: False
+published: true
 categories: []
 tags: [google, places, api, iOS]
 ---
