@@ -21,7 +21,7 @@ permalink: /portfolio/
 - [Taprigo search](https://github.com/shaydesdsgn/jquery.sd.tapirgo) - Updated and 'working' version of a [Tapir](http://tapirgo.com/) plugin.
 
 ### Alfred Workflows
-- [WiFi Toggle](https://github.com/shaydesdsgn/alfred-wifi-toggle) - If the name doesn't give its functionality away it lets you toggle your WiFi...
+- [WiFi Toggle](https://github.com/trentmilton/alfred-wifi-toggle) - If the name doesn't give its functionality away it lets you toggle your WiFi...
 
 ### Android
 
