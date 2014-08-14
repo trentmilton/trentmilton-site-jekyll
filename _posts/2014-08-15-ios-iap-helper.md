@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS IAP Helper
-published: False
+published: true
 categories: []
 tags: [ios, iap, helper, app store]
 ---
