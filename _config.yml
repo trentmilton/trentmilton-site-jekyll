@@ -6,6 +6,7 @@ description: "A place to collect my notes on development, portfolio and a few bi
 baseurl: ""
 url: "http://trentmilton.com"
 github_username: trentmilton
+github_username_alt: shaydesdsgn
 disqus_shortname: trentmilton-blog
 
 # Build settings
