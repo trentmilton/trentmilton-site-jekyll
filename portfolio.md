@@ -2,6 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
+exclude_from_search: true
 ---
 
 ### Websites
