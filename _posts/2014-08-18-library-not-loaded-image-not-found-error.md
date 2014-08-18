@@ -12,8 +12,8 @@ Dyld Error Message:
   Reason: image not found
 
 
-Fix [here](http://stackoverflow.com/questions/24993752/os-x-framework-library-not-loaded-image-not-found)
-
+Fix = [here](http://stackoverflow.com/questions/24993752/os-x-framework-library-not-loaded-image-not-found)
+Apple docs = https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPFrameworks/Tasks/CreatingFrameworks.html#//apple_ref/doc/uid/20002258-BAJDHDAF
 
 **Building The Framework**
 

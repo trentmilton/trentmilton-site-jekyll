@@ -25,10 +25,18 @@ comments: true
   </header>
 
   <article class="post-content">
-  {{ content }}
+  	{{ content }}
   </article>
 
 </div>
+
+<div>
+	<h3>Related</h3>
+	{% for post in site.related_posts %}
+	  <a href="{{ post.url }}">{{ post.title }}</a><br />
+	{% endfor %}
+</div>
+<br>
 
 {{ % if page.comments % }}
 	<div id="disqus_thread"></div>

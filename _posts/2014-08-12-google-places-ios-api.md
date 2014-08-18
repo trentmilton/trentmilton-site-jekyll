@@ -3,7 +3,7 @@ layout: post
 title: Google Places iOS API
 published: true
 categories: []
-tags: [google, places, api, iOS]
+tags: [google, places, api, ios]
 ---
 
 I have released an api for Google Places for iOS over at GitHub, you can access [here](https://github.com/shaydesdsgn/SDFPlaces).
