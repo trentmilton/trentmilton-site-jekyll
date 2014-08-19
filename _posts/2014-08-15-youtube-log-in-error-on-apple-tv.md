@@ -3,7 +3,7 @@ layout: post
 title: YouTube Log In Error on Apple TV
 published: true
 categories: []
-tags: [apple tv, youtube, account, error]
+tags: [apple-tv, youtube, account, error]
 ---
 I had an issue the other day trying to log in to my youtube account on my apple tv. I couldn't work out what was going on for a while. My password was correct, account was right. No idea...
 

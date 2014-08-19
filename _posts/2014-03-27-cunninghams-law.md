@@ -3,7 +3,7 @@ layout: post
 title: Cunninghams Law
 published: true
 categories: []
-tags: [cunninghams law]
+tags: [cunninghams-law]
 ---
 I found the following quote very true:
 > The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer.

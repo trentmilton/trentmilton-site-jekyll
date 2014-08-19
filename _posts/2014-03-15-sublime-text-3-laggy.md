@@ -3,7 +3,7 @@ layout: post
 title: Sublime Text 3 Laggy
 published: true
 categories: []
-tags: [sublime text, mavericks, osx]
+tags: [sublime-text, mavericks, osx]
 ---
 I've recently upgraded Mavericks (OSX) to 10.9.2 and discovered that Sublime was performing terribly slow. I'm talking 1 second (plus) delays in keyboard stroke to render in the editor.
 

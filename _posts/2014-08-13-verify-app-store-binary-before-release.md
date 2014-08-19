@@ -3,7 +3,7 @@ layout: post
 title: Verify App Store Binary Before Release
 published: true
 categories: []
-tags: [app store, binary, release, osx, installer, package]
+tags: [app-store, binary, release, osx, installer, package]
 ---
 
 It may be worth testing that your Mac App Store binary will actually install before submitting it for a 10+ day turnaround for review.

@@ -3,7 +3,7 @@ layout: post
 title: iOS IAP Helper
 published: true
 categories: []
-tags: [ios, iap, helper, app store]
+tags: [ios, iap, helper, app-store]
 ---
 
 I have released a helper class [here](https://github.com/shaydesdsgn/SDFIAPHelper) I've used in the past.

@@ -3,7 +3,7 @@ layout: post
 title: Library Not Loaded Image Not Found Error
 published: true
 categories: []
-tags: [osx, framework, app store, error]
+tags: [osx, framework, app-store, error]
 ---
 Recently I ran into an error submitting [eatkeep](http://www.eatkeep.io) to the Mac App Store. As it will eventually be a universal app (ios, mac) I created a project that generates a framework (mac) and a static library (ios).
 
