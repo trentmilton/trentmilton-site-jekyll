@@ -39,6 +39,17 @@ a:visited { color: #205caa; }
 /* ----------------------------------------------------------*/
 
 /* Search */
+#four-o-four {
+	text-align: center;
+}
+#four-o-four #title {
+	font-size: 5em;
+}
+#four-o-four #description {
+	margin-top:1em;
+}
+
+/* Search */
 
 #search-query {
 	font-size: 120%;
