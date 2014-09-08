@@ -9,8 +9,9 @@ The following are some useful bits and pieces for working with git.
 
 ### Commands
 
--	**Push all remotes at once**: git remote | xargs -L 1 git push
--	**Disconnect from repository**: rm -rf .git
+-	**Push all remotes at once**: ```git remote | xargs -L 1 git push```
+-	**Disconnect from repository**: ```rm -rf .git```
+- **Update all submodules**: ```git pull --recurse-submodules```
 
 ### Bash Alias's
 
