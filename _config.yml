@@ -9,9 +9,16 @@ github_username: trentmilton
 github_username_alt: shaydesdsgn
 disqus_shortname: trentmilton-blog
 
-# Build settings
+# Where things are
+layouts: ./_layouts
+
+# Handling Reading
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'README.md', 'deploy.sh']
+
+# Conversion
 markdown: kramdown
+
+# Outputting
 permalink: none
 
 # Sitemap
