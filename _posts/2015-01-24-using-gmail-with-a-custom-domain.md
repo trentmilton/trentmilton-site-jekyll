@@ -25,7 +25,8 @@ This guide is not robust and assumes you are familiar with mucking around in you
 
 That's it for this part, now off to Gmail.
 
-#### 2. Gmail alias
+### 2. Gmail alias
+
 This is an optional step which allows you to send from your gmail address under an alias of your custom domain email. That is, from franklin@gmail.com it will appear to others as if your email is contact@fans.com.
 
 - In mailgun select your **domain** and go to **Manage SMTP credential**. Create a SMTP credential for the alias you want. In this case it's contact@fans.com. Take note of the password as you'll need it later.
