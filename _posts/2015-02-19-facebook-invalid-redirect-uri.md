@@ -3,7 +3,7 @@ layout: post
 title: Facebook Invalid Redirect URI
 categories: []
 tags: [facebook,osx,mac,desktop,app,oauth]
-published: False
+published: true
 
 ---
 
