@@ -41,4 +41,4 @@ The change (it seems) is that you are now required to **explicitly set** the **r
 https://www.facebook.com/connect/login_success.html
 ```
 
-3. Go back and try it out in your app, it should be all good to go now.
+That's it, test it out and hopefully it's working for you now.
