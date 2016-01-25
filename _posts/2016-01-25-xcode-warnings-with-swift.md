@@ -20,7 +20,7 @@ Now when you compile you are able to see the warnings again.
 
 If you want to take this a step further you can add some code snippets to make this process even quicker.
 
-Just drag the following into the snipped section and put it under the relevant shortcut, I use todo.
+Just drag the following into the snipped section and put it under the relevant shortcut, I use **todo**.
 
 	// TODO: <#information#>
 
