@@ -2,15 +2,22 @@
 title: Trent Milton
 email: me@trentmilton.com
 email_alt: trent@shaydesdsgn.com
-description: "A place to collect my notes on development and anything else I can think of."
+description: "This is a place to collect my notes on development and anything else I can think of."
 baseurl: ""
 url: "http://trentmilton.com"
 github_username: trentmilton
 github_username_alt: shaydesdsgn
 disqus_shortname: trentmilton-blog
 
-# Handling Reading
+# I'm not sure what this is about, I think it's a jekyll property
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'README.md', 'deploy.sh']
+
+# Gems to use
+gems: ['jekyll-lunr-js-search']
+
+# tag_gen.rb
+tag_title_prefix: '#'
+tag_title_suffix: ''
 
 # Conversion
 markdown: kramdown
@@ -25,6 +32,7 @@ sitemap:
         - "/atom.xml"
         - "/feed.xml"
         - "/feed/index.xml"
+        - "/tags"
     include_posts:
         - "/index.html"
     change_frequency_name: "change_frequency"

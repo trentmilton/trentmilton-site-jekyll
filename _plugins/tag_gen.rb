@@ -1,3 +1,4 @@
+# Source: http://charliepark.org/tags-in-jekyll/
 module Jekyll
   class TagIndex < Page
     def initialize(site, base, dir, tag)
