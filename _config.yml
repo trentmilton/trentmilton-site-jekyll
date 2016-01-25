@@ -1,12 +1,12 @@
 # Site settings
 title: Trent Milton
 email: me@trentmilton.com
-email_alt: trent@shaydesdsgn.com
+# email_alt: trent@shaydesdsgn.com
 description: "This is a place to collect my notes on development and anything else I can think of."
 baseurl: ""
 url: "http://trentmilton.com"
 github_username: trentmilton
-github_username_alt: shaydesdsgn
+# github_username_alt: shaydesdsgn
 disqus_shortname: trentmilton-blog
 
 # I'm not sure what this is about, I think it's a jekyll property
