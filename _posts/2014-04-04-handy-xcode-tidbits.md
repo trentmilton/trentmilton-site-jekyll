@@ -11,7 +11,7 @@ The following are some useful bits and pieces for working with Xcode.
 
 #### iOS Simulator Laggy
 
-With the release of Mavericks the OS had a featue called coalesing added. This is supposed to help in running iOS 6.1 and earlier. According to the Apple release note:
+With the release of Mavericks the OS had a featue called coalesing added. This is supposed to help in running iOS 6.1 and earlier. According to the Apple release NOTE:
 
 > Performance issues can arise when running apps within the iOS Simulator on OS X Mavericks with a simulated OS version of iOS 6.1 or earlier.
 A workaround is to disable timer coalescing while using the iOS 6.1 or earlier simulator by executing the following command in a Terminal window:

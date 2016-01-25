@@ -26,7 +26,7 @@ Which should give you output similar to:
 	To proceed, enter your password, or type Ctrl-C to abort.
 
 	Password:
-	installer: Note: running installer as an admin user (instead of root) gives better Mac App Store fidelity
+	installer: NOTE: running installer as an admin user (instead of root) gives better Mac App Store fidelity
 	installer: TrackMix.pkg has valid signature for submission: 3rd Party Mac Developer Installer: Ravi Patel (7U3X8B3P5Z)
 	installer: Installation Check: Passed
 	installer: Volume Check: Passed

@@ -3,7 +3,7 @@ layout: post
 title: Xcode Warnings With Swift
 categories: []
 tags: [swift,xcode,snippet]
-published: False
+published: True
 
 ---
 With the introduction of swift goes the handy warnings that we used to love. Especially when used for TODO's, FIXME's or similar:
@@ -24,8 +24,8 @@ Just drag the following into the snipped section and put it under the relevant s
 
 	// TODO: <#information#>
 
-NOTE: You may find this doesn't work by dragging from the Xcode editor (I keep having the help show up with now info). I find it easier to just drag from Sublime or another text editor.
+_NOTE: You may find this doesn't work by dragging from the Xcode editor (I keep having the help show up with now info). I find it easier to just drag from Sublime or another text editor_
 
 ### Sources
-- https://developer.apple.com/library/ios/recipes/xcode_help-source_editor/chapters/CreatingaCustomCodeSnippet.html
-- http://stackoverflow.com/a/26869489
+- [Stack overflow](http://stackoverflow.com/a/26869489)
+- [Apple developer - Creating a custom code snippet](https://developer.apple.com/library/ios/recipes/xcode_help-source_editor/chapters/CreatingaCustomCodeSnippet.html)
