@@ -12,7 +12,6 @@ exclude_from_search: true
 
 ### iOS Apps
 
-- [GPS Text](https://itunes.apple.com/au/app/gps-text/id406972406?mt=8) - Fast and simple location messaging. Landing page available [here](http://gpstext.shaydesdsgn.com).
 - [FTQ360](https://itunes.apple.com/au/app/ftq360-inspection-system/id524894778?mt=8) - Developed for a client (FTQ360). Designed for iPhone / iPad, a construction quality (QA/QC) inspection application.
 
 ### iOS Stuff
