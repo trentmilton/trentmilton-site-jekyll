@@ -18,9 +18,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #2a7ae2; text-decoration: none; }
-a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #205caa; }
+a         { color: #2a7ae2 !important; text-decoration: none !important; }
+a:hover   { color: #000 !important; text-decoration: underline !important; }
+a:visited { color: #205caa !important; }
 
 /* Utility */
 
@@ -175,10 +175,10 @@ a:visited { color: #205caa; }
 
 .posts li { margin-bottom: 30px; }
 
-.posts .post-link {
-  font-size: 24px;
+.posts .post-link, .tipue_search_content_title {
+  font-size: 24px !important;
   letter-spacing: -1px;
-  line-height: 1;
+  line-height: 1 !important;
 }
 
 .posts .post-date {
