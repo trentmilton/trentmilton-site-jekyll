@@ -12,17 +12,7 @@ comments: true
     {% if page.author %}
     	by {{ page.author }}
     {% endif %}
-		{% if page.tags %}
-    	  <i>
-    		{% assign tags = page.tags | sort %}
-    		{% for tag in tags %}
-          <!-- Tags disabled as they don't work in github pages -->
-					<!-- <a href='/tag/{{ tag }}'>{{ tag }}</a>{% if tags.last != tag %},{% endif %} -->
-          #{{ tag }}{% if tags.last != tag %},{% endif %}
-    		{% endfor %}
-    		</i>
-		{% endif %}
-
+    
 		</p>
   </header>
 

@@ -26,10 +26,6 @@ exclude_from_search: true
 - [Calendar](https://github.com/shaydesdsgn/SDFCalendarOSX) - Simple and highly configurable framework for a calendar on OSX. There are very few of these out there.
 - [Text field validation](https://github.com/shaydesdsgn/SDF-NSTextField-Validation) - Category to provide simple validations types such as email, password etc.
 
-### Websites
-
-- [Securely](http://securely.shaydesdsgn.com/) - A simple password generator. Cuts out the most common used password and elimates most free will in generation so there is as little bias as possible.
-
 ### jQuery Plugins
 
 - [Taprigo search](https://github.com/shaydesdsgn/jquery.sd.tapirgo) - Updated and 'working' version of a [Tapir](http://tapirgo.com/) plugin.
