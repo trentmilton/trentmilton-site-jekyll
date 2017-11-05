@@ -11,15 +11,7 @@ If you are having issues using Facbook authentication on a Mac app you may not h
 
 You are most likely getting an error similar to the following:
 
-```
-{
-   "error": {
-      "message": "Invalid redirect_uri: Given URL is not allowed by the Application configuration.",
-      "type": "OAuthException",
-      "code": 191
-   }
-}
-```
+<script src="https://gist.github.com/trentmilton/c8117ad2cf3aca9e457a6e38f22fbc3f.js"></script>
 
 ### Solution
 

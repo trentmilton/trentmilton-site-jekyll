@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
-ruby '2.3.3'
+# https://pages.github.com/versions/
+ruby '2.4.0'
 gem 'bundler'
-gem 'jekyll'
+gem 'jekyll', '~>3.6.2'
+gem 'jekyll-feed', '~>0.9.2'

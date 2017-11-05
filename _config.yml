@@ -10,8 +10,8 @@ disqus_shortname: trentmilton-blog
 # I'm not sure what this is about, I think it's a jekyll property
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'README.md', 'deploy.sh']
 
-# Conversion
-#markdown: kramdown
+gems:
+  - jekyll-feed
 
 # Outputting
 permalink: none
